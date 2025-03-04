@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ody (Zekai) Zhou</h1>
 <h3 align="center">A passionate product developer and AI researcher</h3>
 
-- 🌱 I’m currently learning and researching on: World models, Reinforcement Learning, AI Agent, RAG, Quantitative trading. 
+- 🌱 I’m currently learning and researching on: **World models, Reinforcement Learning, AI Agent, RAG, Quantitative trading.**
 
 - 📫 How to reach me **zhouodywork@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ody-zhou-84a78628a/](https://www.linkedin.com/in/ody-zhou-84a78628a/)
 
-- ⚡ Hobbies **Music, Martial arts, Trading**
+- ⚡ Hobbies **Music, Martial arts, Gym, Reading, Gaming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
