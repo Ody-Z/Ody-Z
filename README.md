@@ -8,6 +8,8 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/ody-zhou-84a78628a/](https://www.linkedin.com/in/ody-zhou-84a78628a/)
 
 - ⚡ Hobbies **Music, Martial arts, Gym, Reading, Gaming**
+- Link to my research paper:
+https://arxiv.org/pdf/2502.05907
 
 <p align="left">
 </p>
