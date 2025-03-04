@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ody (Zekai) Zhou</h1>
 <h3 align="center">A passionate product developer and AI researcher</h3>
 
-- 🌱 I’m currently learning and working on **LangChain, AI agent, World models**
+- 🌱 I’m currently learning and researching on: World models, Reinforcement Learning, AI Agent, RAG, Quantitative trading. 
 
 - 📫 How to reach me **zhouodywork@gmail.com**
 
