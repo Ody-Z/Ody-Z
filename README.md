@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ody (Zekai) Zhou</h1>
 <h3 align="center">A passionate product developer and AI researcher</h3>
 
-- 🌱 I’m currently learning and researching on: **World models, Reinforcement Learning, AI Agent, RAG, Quantitative trading.**
+- 🌱Currently building [agent-id.dev](agent-id.dev) shaping Agent identity and how people should manage them. 
+  
+- built [rayfeedback.ai](rayfeedback.ai) AI marking and feedback
 
 - 📫 How to reach me **zhouodywork@gmail.com**
 
