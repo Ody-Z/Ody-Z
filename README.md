@@ -15,10 +15,3 @@ Casually shipping small tools and Claude skills. When I'm not behind a keyboard 
 
 **Links**
 [odyzhou.com](https://odyzhou.com) · [LinkedIn](https://www.linkedin.com/in/ody-zhou-84a78628a/) · zhouodywork@gmail.com
-
-<br/>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ody-Z&show_icons=true&hide_border=true&theme=transparent&hide_title=true&hide_rank=true&hide=issues,contribs" height="135"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ody-Z&layout=compact&hide_border=true&theme=transparent&hide_title=true&langs_count=6" height="135"/>
-</p>
